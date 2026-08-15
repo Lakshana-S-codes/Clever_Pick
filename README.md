@@ -436,7 +436,7 @@ CleverPick/
 
 <br/>
 
-Built by **[AKSINGH-0704](https://github.com/AKSINGH-0704)**
+
 
 *CleverPick — because knowing which AI to trust matters.*
 
